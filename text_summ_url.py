@@ -45,7 +45,7 @@ prompt_template = """
 * **Ensure the summary is clear, accurate, objective, and accessible to a student with limited knowledge.**
 * **Avoid unnecessary details or jargon.**
 * **Use analogies, metaphors, or real-world examples to illustrate complex concepts.**
-* **Provide code snippets or examples where appropriate to reinforce understanding.**
+* **Provide code whev=n it is needed, as to provide the syntax of the problem, dont provide code were it is not nesscary.**
 * **Conclude with a brief discussion of potential research directions or applications.**
 :
 {text}
